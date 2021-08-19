@@ -11,9 +11,9 @@ eCommerce Application:
 Required Packages and Plugins:
 -------------------------------
 
-* Selenium	: Selenium Libraries
-* Pytest		: Python Unit Test Framework
-* Openpyxl	: MS Excel Support
-* pytest-html	: PyTest HTML Report Generation
+* Selenium	    : Selenium Libraries
+* Pytest		    : Python Unit Test Framework
+* Openpyxl	    : MS Excel Support
+* pytest-html	  : PyTest HTML Report Generation
 * pytest-xdist	: Run Tests Parallel
 * Allure-pytest	: Generate Allure Report
