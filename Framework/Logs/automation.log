@@ -1,0 +1,120 @@
+02/05/2023 12:12:15 PM: INFO: ====== WebDriver manager ======
+02/05/2023 12:12:15 PM: INFO: Get LATEST chromedriver version for google-chrome 109.0.5414
+02/05/2023 12:12:16 PM: INFO: Driver [C:\Users\Pranto\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+02/05/2023 12:12:17 PM: INFO: ******* Test_001_Login********
+02/05/2023 12:12:17 PM: INFO: ****** Verifying Homepage Title**********
+02/05/2023 12:12:18 PM: INFO: ****** Homepage Title Test Passed ******
+02/05/2023 12:12:18 PM: INFO: ====== WebDriver manager ======
+02/05/2023 12:12:19 PM: INFO: Get LATEST chromedriver version for google-chrome 109.0.5414
+02/05/2023 12:12:19 PM: INFO: Driver [C:\Users\Pranto\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+02/05/2023 12:12:20 PM: INFO: ******* Verifying Login Test ********
+02/05/2023 12:12:27 PM: INFO: ***** Login Test Passed *****
+02/05/2023 12:26:38 PM: INFO: ====== WebDriver manager ======
+02/05/2023 12:26:40 PM: INFO: Get LATEST edgedriver version for 109.0.1518 Edge
+02/05/2023 12:26:41 PM: INFO: There is no [win64] edgedriver for browser 109.0.1518 in cache
+02/05/2023 12:26:41 PM: INFO: About to download new driver from https://msedgedriver.azureedge.net/109.0.1518.78/edgedriver_win64.zip
+02/05/2023 12:26:44 PM: INFO: Driver has been saved in cache [C:\Users\Pranto\.wdm\drivers\edgedriver\win64\109.0.1518]
+02/05/2023 12:26:45 PM: INFO: ====== WebDriver manager ======
+02/05/2023 12:26:47 PM: INFO: Get LATEST edgedriver version for 109.0.1518 Edge
+02/05/2023 12:26:48 PM: INFO: Driver [C:\Users\Pranto\.wdm\drivers\edgedriver\win64\109.0.1518\msedgedriver.exe] found in cache
+02/05/2023 12:27:13 PM: INFO: ====== WebDriver manager ======
+02/05/2023 12:27:13 PM: INFO: Get LATEST chromedriver version for google-chrome 109.0.5414
+02/05/2023 12:27:14 PM: INFO: Driver [C:\Users\Pranto\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+02/05/2023 12:27:15 PM: INFO: ******* Test_001_Login********
+02/05/2023 12:27:15 PM: INFO: ****** Verifying Homepage Title**********
+02/05/2023 12:27:33 PM: INFO: ****** Homepage Title Test Passed ******
+02/05/2023 12:27:33 PM: INFO: ====== WebDriver manager ======
+02/05/2023 12:27:33 PM: INFO: Get LATEST chromedriver version for google-chrome 109.0.5414
+02/05/2023 12:27:34 PM: INFO: Driver [C:\Users\Pranto\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+02/05/2023 12:27:35 PM: INFO: ******* Verifying Login Test ********
+02/05/2023 12:27:41 PM: INFO: ***** Login Test Passed *****
+02/05/2023 12:27:50 PM: INFO: ====== WebDriver manager ======
+02/05/2023 12:27:51 PM: INFO: Get LATEST edgedriver version for 109.0.1518 Edge
+02/05/2023 12:27:52 PM: INFO: Driver [C:\Users\Pranto\.wdm\drivers\edgedriver\win64\109.0.1518\msedgedriver.exe] found in cache
+02/05/2023 12:27:54 PM: INFO: ******* Test_001_Login********
+02/05/2023 12:27:54 PM: INFO: ****** Verifying Homepage Title**********
+02/05/2023 12:27:55 PM: INFO: ****** Homepage Title Test Passed ******
+02/05/2023 12:27:55 PM: INFO: ====== WebDriver manager ======
+02/05/2023 12:27:56 PM: INFO: Get LATEST edgedriver version for 109.0.1518 Edge
+02/05/2023 12:27:57 PM: INFO: Driver [C:\Users\Pranto\.wdm\drivers\edgedriver\win64\109.0.1518\msedgedriver.exe] found in cache
+02/05/2023 12:28:01 PM: INFO: ******* Verifying Login Test ********
+02/05/2023 12:28:08 PM: INFO: ***** Login Test Passed *****
+02/05/2023 12:28:31 PM: INFO: ====== WebDriver manager ======
+02/05/2023 12:28:32 PM: INFO: Get LATEST edgedriver version for 109.0.1518 Edge
+02/05/2023 12:28:33 PM: INFO: Driver [C:\Users\Pranto\.wdm\drivers\edgedriver\win64\109.0.1518\msedgedriver.exe] found in cache
+02/05/2023 12:28:35 PM: INFO: ******* Test_001_Login********
+02/05/2023 12:28:35 PM: INFO: ****** Verifying Homepage Title**********
+02/05/2023 12:28:42 PM: INFO: ****** Homepage Title Test Passed ******
+02/05/2023 12:28:42 PM: INFO: ====== WebDriver manager ======
+02/05/2023 12:28:43 PM: INFO: Get LATEST edgedriver version for 109.0.1518 Edge
+02/05/2023 12:28:44 PM: INFO: Driver [C:\Users\Pranto\.wdm\drivers\edgedriver\win64\109.0.1518\msedgedriver.exe] found in cache
+02/05/2023 12:28:48 PM: INFO: ******* Verifying Login Test ********
+02/05/2023 12:28:55 PM: INFO: ***** Login Test Passed *****
+02/05/2023 12:29:16 PM: INFO: ====== WebDriver manager ======
+02/05/2023 12:29:17 PM: INFO: Get LATEST edgedriver version for 109.0.1518 Edge
+02/05/2023 12:29:18 PM: INFO: Driver [C:\Users\Pranto\.wdm\drivers\edgedriver\win64\109.0.1518\msedgedriver.exe] found in cache
+02/05/2023 12:29:20 PM: INFO: ******* Test_001_Login********
+02/05/2023 12:29:20 PM: INFO: ****** Verifying Homepage Title**********
+02/05/2023 12:29:21 PM: INFO: ****** Homepage Title Test Passed ******
+02/05/2023 12:29:21 PM: INFO: ====== WebDriver manager ======
+02/05/2023 12:29:22 PM: INFO: Get LATEST edgedriver version for 109.0.1518 Edge
+02/05/2023 12:29:24 PM: INFO: Driver [C:\Users\Pranto\.wdm\drivers\edgedriver\win64\109.0.1518\msedgedriver.exe] found in cache
+02/05/2023 12:29:27 PM: INFO: ******* Verifying Login Test ********
+02/05/2023 12:29:33 PM: INFO: ***** Login Test Passed *****
+02/05/2023 12:31:06 PM: INFO: ******* Test_001_Login********
+02/05/2023 12:31:06 PM: INFO: ****** Verifying Homepage Title**********
+02/05/2023 12:35:37 PM: INFO: xdist worker is: gw1
+02/05/2023 12:35:37 PM: INFO: xdist worker is: gw0
+02/05/2023 12:35:37 PM: INFO: ====== WebDriver manager ======
+02/05/2023 12:35:37 PM: INFO: ====== WebDriver manager ======
+02/05/2023 12:35:37 PM: INFO: Get LATEST chromedriver version for google-chrome 109.0.5414
+02/05/2023 12:35:37 PM: INFO: Get LATEST chromedriver version for google-chrome 109.0.5414
+02/05/2023 12:35:38 PM: INFO: There is no [win32] chromedriver for browser 109.0.5414 in cache
+02/05/2023 12:35:38 PM: INFO: There is no [win32] chromedriver for browser 109.0.5414 in cache
+02/05/2023 12:35:38 PM: INFO: About to download new driver from https://chromedriver.storage.googleapis.com/109.0.5414.74/chromedriver_win32.zip
+02/05/2023 12:35:38 PM: INFO: About to download new driver from https://chromedriver.storage.googleapis.com/109.0.5414.74/chromedriver_win32.zip
+02/05/2023 12:35:41 PM: INFO: Driver has been saved in cache [C:\Users\Pranto\.wdm\gw0\drivers\chromedriver\win32\109.0.5414]
+02/05/2023 12:35:42 PM: INFO: Driver has been saved in cache [C:\Users\Pranto\.wdm\gw1\drivers\chromedriver\win32\109.0.5414]
+02/05/2023 12:35:42 PM: INFO: ******* Test_001_Login********
+02/05/2023 12:35:42 PM: INFO: ****** Verifying Homepage Title**********
+02/05/2023 12:35:44 PM: INFO: ******* Verifying Login Test ********
+02/05/2023 12:35:50 PM: INFO: ***** Login Test Passed *****
+02/05/2023 12:36:00 PM: INFO: ****** Homepage Title Test Passed ******
+02/05/2023 12:51:06 PM: INFO: xdist worker is: gw1
+02/05/2023 12:51:06 PM: INFO: ====== WebDriver manager ======
+02/05/2023 12:51:06 PM: INFO: xdist worker is: gw0
+02/05/2023 12:51:06 PM: INFO: ====== WebDriver manager ======
+02/05/2023 12:51:07 PM: INFO: Get LATEST chromedriver version for google-chrome 109.0.5414
+02/05/2023 12:51:07 PM: INFO: Driver [C:\Users\Pranto\.wdm\gw1\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+02/05/2023 12:51:07 PM: INFO: Driver [C:\Users\Pranto\.wdm\gw0\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+02/05/2023 12:51:09 PM: INFO: ******* Verifying Login Test ********
+02/05/2023 12:51:09 PM: INFO: ******* Test_001_Login********
+02/05/2023 12:51:09 PM: INFO: ****** Verifying Homepage Title**********
+02/05/2023 12:51:14 PM: INFO: ***** Login Test Passed *****
+02/05/2023 12:51:27 PM: INFO: ****** Homepage Title Test Passed ******
+02/05/2023 12:52:41 PM: INFO: xdist worker is: gw1
+02/05/2023 12:52:41 PM: INFO: ====== WebDriver manager ======
+02/05/2023 12:52:41 PM: INFO: xdist worker is: gw0
+02/05/2023 12:52:41 PM: INFO: ====== WebDriver manager ======
+02/05/2023 12:52:42 PM: INFO: Get LATEST chromedriver version for google-chrome 109.0.5414
+02/05/2023 12:52:42 PM: INFO: Get LATEST chromedriver version for google-chrome 109.0.5414
+02/05/2023 12:52:42 PM: INFO: Driver [C:\Users\Pranto\.wdm\gw1\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+02/05/2023 12:52:42 PM: INFO: Driver [C:\Users\Pranto\.wdm\gw0\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+02/05/2023 12:52:43 PM: INFO: ******* Test_001_Login********
+02/05/2023 12:52:43 PM: INFO: ****** Verifying Homepage Title**********
+02/05/2023 12:52:44 PM: INFO: ******* Verifying Login Test ********
+02/05/2023 12:52:50 PM: INFO: ***** Login Test Passed *****
+02/05/2023 12:53:00 PM: INFO: ****** Homepage Title Test Passed ******
+02/05/2023 12:53:42 PM: INFO: xdist worker is: gw1
+02/05/2023 12:53:42 PM: INFO: xdist worker is: gw0
+02/05/2023 12:53:42 PM: INFO: ====== WebDriver manager ======
+02/05/2023 12:53:42 PM: INFO: ====== WebDriver manager ======
+02/05/2023 12:53:42 PM: INFO: Get LATEST chromedriver version for google-chrome 109.0.5414
+02/05/2023 12:53:42 PM: INFO: Get LATEST chromedriver version for google-chrome 109.0.5414
+02/05/2023 12:53:43 PM: INFO: Driver [C:\Users\Pranto\.wdm\gw0\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+02/05/2023 12:53:43 PM: INFO: Driver [C:\Users\Pranto\.wdm\gw1\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+02/05/2023 12:53:44 PM: INFO: ******* Test_001_Login********
+02/05/2023 12:53:44 PM: INFO: ****** Verifying Homepage Title**********
+02/05/2023 12:53:44 PM: INFO: ******* Verifying Login Test ********
+02/05/2023 12:53:51 PM: INFO: ***** Login Test Passed *****
+02/05/2023 12:54:02 PM: INFO: ****** Homepage Title Test Passed ******

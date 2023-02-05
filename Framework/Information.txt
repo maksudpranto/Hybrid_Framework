@@ -1,0 +1,29 @@
+Test URL: https://admin-demo.nopcommerce.com/login
+
+pip install pytest
+pip install allure-pytest
+pip install pytest-html
+pip install openpyxl
+pip install pytest-xdist(Run test parallel)
+
+Folder Structure:
+
+Project Name
+|
+PageObjects(Packages)
+|
+TestCases(Packages)
+|
+Utilities(Packages)
+|
+Test Data(Folder)
+|
+Configuration(Folder)
+|
+Logs(Folder)
+|
+Screenshots(Folder)
+|
+Reports(Folder)
+|
+Run.bat
